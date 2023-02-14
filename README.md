@@ -1,2 +1,2 @@
 # Python-Learning
-Various simple programs in Python
+Various programs in Python
